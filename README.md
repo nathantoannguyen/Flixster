@@ -1,6 +1,10 @@
 # Flix
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
+Submitted by: ##Nathan Nguyen##
+
+Time spent: ##4## hours spent in total
+
 ---
 
 ## Flix Part 1
@@ -25,7 +29,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 
-Although building this app was not significantly difficult, as all I needed was to set up a get request in obtaining data from the Movie DB API, I had to ensure that my formatting was not all over the place in order to provide clean readability and that my understanding of what each class and function was used for was clear to me.
+Although building this app was not significantly difficult, as all I needed was to set up a get request in obtaining data from the Movie DB API, I had to ensure that my formatting was not all over the place in order to provide clean readability and that my understanding of what each class and function was used for was clear to me. I also had difficulty adding and pushing the gif through terminal to the repository.
 
 ### Open-source libraries used
 
