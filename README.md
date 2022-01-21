@@ -32,7 +32,7 @@ Time spent: **4** hours spent in total
 
 ### Notes
 
-Although I had my Youtube video playing with the sound and all, the video animation itself was not playing, and I did not know how to resolve that, though I suspect it might simply be my emulator.
+Although I had my Youtube video playing with the sound and all, the video animation itself was not playing, and I did not know how to resolve that, though I suspect it might simply be my emulator. However, I believe it may be my fault in some way, and so I do not think I fully completed the second requirement of the assignment, being allowing for video posts to be played in full-screen using the YoutubePlayerView.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
